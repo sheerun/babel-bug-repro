@@ -1,0 +1,15 @@
+{
+  "name": "babel-bug-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^7.0.0-beta.2",
+    "babel-preset-env": "^2.0.0-beta.2"
+  }
+}
